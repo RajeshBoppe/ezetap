@@ -1,0 +1,3 @@
+include ':MathOps'
+include ':app'
+rootProject.name = "Ezetap"
